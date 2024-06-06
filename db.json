@@ -4,301 +4,388 @@
       "id": 1,
       "name": "Alice Johnson",
       "username": "alicej",
-      "email": "alice.johnson@example.com"
+      "email": "alice.johnson@example.com",
+      "telephone": "123-456-7890",
+      "location": "New York, NY",
+      "isAdmin": true
     },
     {
       "id": 2,
       "name": "Bob Smith",
       "username": "bobsmith",
-      "email": "bob.smith@example.com"
+      "email": "bob.smith@example.com",
+      "telephone": "234-567-8901",
+      "location": "Los Angeles, CA",
+      "isAdmin": false
     },
     {
       "id": 3,
       "name": "Charlie Brown",
       "username": "charlieb",
-      "email": "charlie.brown@example.com"
+      "email": "charlie.brown@example.com",
+      "telephone": "345-678-9012",
+      "location": "Chicago, IL",
+      "isAdmin": false
     },
     {
       "id": 4,
       "name": "David Wilson",
       "username": "davidw",
-      "email": "david.wilson@example.com"
+      "email": "david.wilson@example.com",
+      "telephone": "456-789-0123",
+      "location": "Houston, TX",
+      "isAdmin": true
     },
     {
       "id": 5,
       "name": "Eva Martinez",
       "username": "evam",
-      "email": "eva.martinez@example.com"
+      "email": "eva.martinez@example.com",
+      "telephone": "567-890-1234",
+      "location": "Phoenix, AZ",
+      "isAdmin": false
     },
     {
       "id": 6,
       "name": "Franklin Lee",
       "username": "franklinl",
-      "email": "franklin.lee@example.com"
+      "email": "franklin.lee@example.com",
+      "telephone": "678-901-2345",
+      "location": "Philadelphia, PA",
+      "isAdmin": false
     },
     {
       "id": 7,
       "name": "Grace Kim",
       "username": "gracek",
-      "email": "grace.kim@example.com"
+      "email": "grace.kim@example.com",
+      "telephone": "789-012-3456",
+      "location": "San Antonio, TX",
+      "isAdmin": true
     },
     {
       "id": 8,
       "name": "Hannah Davis",
       "username": "hannahd",
-      "email": "hannah.davis@example.com"
+      "email": "hannah.davis@example.com",
+      "telephone": "890-123-4567",
+      "location": "San Diego, CA",
+      "isAdmin": false
     },
     {
       "id": 9,
       "name": "Ian Scott",
       "username": "ians",
-      "email": "ian.scott@example.com"
+      "email": "ian.scott@example.com",
+      "telephone": "901-234-5678",
+      "location": "Dallas, TX",
+      "isAdmin": false
     },
     {
       "id": 10,
       "name": "Jasmine Lopez",
       "username": "jasminel",
-      "email": "jasmine.lopez@example.com"
+      "email": "jasmine.lopez@example.com",
+      "telephone": "012-345-6789",
+      "location": "San Jose, CA",
+      "isAdmin": true
     },
     {
       "id": 11,
       "name": "Kevin Harris",
       "username": "kevinh",
-      "email": "kevin.harris@example.com"
+      "email": "kevin.harris@example.com",
+      "telephone": "123-456-7890",
+      "location": "Austin, TX",
+      "isAdmin": false
     },
     {
       "id": 12,
       "name": "Lily Clark",
       "username": "lilyc",
-      "email": "lily.clark@example.com"
+      "email": "lily.clark@example.com",
+      "telephone": "234-567-8901",
+      "location": "Jacksonville, FL",
+      "isAdmin": false
     },
     {
       "id": 13,
       "name": "Michael Allen",
       "username": "michaela",
-      "email": "michael.allen@example.com"
+      "email": "michael.allen@example.com",
+      "telephone": "345-678-9012",
+      "location": "Fort Worth, TX",
+      "isAdmin": true
     },
     {
       "id": 14,
       "name": "Natalie Young",
       "username": "nataliey",
-      "email": "natalie.young@example.com"
+      "email": "natalie.young@example.com",
+      "telephone": "456-789-0123",
+      "location": "Columbus, OH",
+      "isAdmin": false
     },
     {
       "id": 15,
       "name": "Oliver King",
       "username": "oliverk",
-      "email": "oliver.king@example.com"
+      "email": "oliver.king@example.com",
+      "telephone": "567-890-1234",
+      "location": "Charlotte, NC",
+      "isAdmin": false
     },
     {
       "id": 16,
       "name": "Pamela Wright",
       "username": "pamelaw",
-      "email": "pamela.wright@example.com"
+      "email": "pamela.wright@example.com",
+      "telephone": "678-901-2345",
+      "location": "San Francisco, CA",
+      "isAdmin": true
     },
     {
       "id": 17,
       "name": "Quincy Baker",
       "username": "quincyb",
-      "email": "quincy.baker@example.com"
+      "email": "quincy.baker@example.com",
+      "telephone": "789-012-3456",
+      "location": "Indianapolis, IN",
+      "isAdmin": false
     },
     {
       "id": 18,
       "name": "Rachel Adams",
       "username": "rachela",
-      "email": "rachel.adams@example.com"
+      "email": "rachel.adams@example.com",
+      "telephone": "890-123-4567",
+      "location": "Seattle, WA",
+      "isAdmin": false
     },
     {
       "id": 19,
       "name": "Samuel Nelson",
       "username": "samueln",
-      "email": "samuel.nelson@example.com"
+      "email": "samuel.nelson@example.com",
+      "telephone": "901-234-5678",
+      "location": "Denver, CO",
+      "isAdmin": true
     },
     {
       "id": 20,
       "name": "Tina Campbell",
       "username": "tinac",
-      "email": "tina.campbell@example.com"
+      "email": "tina.campbell@example.com",
+      "telephone": "012-345-6789",
+      "location": "Washington, DC",
+      "isAdmin": false
     },
     {
       "id": 21,
       "name": "Uma Roberts",
       "username": "umar",
-      "email": "uma.roberts@example.com"
+      "email": "uma.roberts@example.com",
+      "telephone": "123-456-7890",
+      "location": "Boston, MA",
+      "isAdmin": false
     },
     {
       "id": 22,
       "name": "Victor Evans",
       "username": "victore",
-      "email": "victor.evans@example.com"
+      "email": "victor.evans@example.com",
+      "telephone": "234-567-8901",
+      "location": "El Paso, TX",
+      "isAdmin": true
     },
     {
       "id": 23,
       "name": "Wendy Turner",
       "username": "wendyt",
-      "email": "wendy.turner@example.com"
+      "email": "wendy.turner@example.com",
+      "telephone": "345-678-9012",
+      "location": "Nashville, TN",
+      "isAdmin": false
     },
     {
       "id": 24,
       "name": "Xander Collins",
       "username": "xanderc",
-      "email": "xander.collins@example.com"
+      "email": "xander.collins@example.com",
+      "telephone": "456-789-0123",
+      "location": "Detroit, MI",
+      "isAdmin": false
     },
     {
       "id": 25,
       "name": "Yvonne Rivera",
       "username": "yvonner",
-      "email": "yvonne.rivera@example.com"
+      "email": "yvonne.rivera@example.com",
+      "telephone": "567-890-1234",
+      "location": "Memphis, TN",
+      "isAdmin": true
     },
     {
       "id": 26,
       "name": "Zachary Walker",
       "username": "zacharyw",
-      "email": "zachary.walker@example.com"
+      "email": "zachary.walker@example.com",
+      "telephone": "678-901-2345",
+      "location": "Louisville, KY",
+      "isAdmin": false
     },
     {
       "id": 27,
       "name": "Ava Sanchez",
       "username": "avas",
-      "email": "ava.sanchez@example.com"
+      "email": "ava.sanchez@example.com",
+      "telephone": "789-012-3456",
+      "location": "Baltimore, MD",
+      "isAdmin": false
     },
     {
       "id": 28,
       "name": "Benjamin Ramirez",
       "username": "benjaminr",
-      "email": "benjamin.ramirez@example.com"
+      "email": "benjamin.ramirez@example.com",
+      "telephone": "890-123-4567",
+      "location": "Milwaukee, WI",
+      "isAdmin": true
     },
     {
       "id": 29,
       "name": "Chloe Foster",
       "username": "chloef",
-      "email": "chloe.foster@example.com"
+      "email": "chloe.foster@example.com",
+      "telephone": "901-234-5678",
+      "location": "Albuquerque, NM",
+      "isAdmin": false
     },
     {
       "id": 30,
       "name": "Daniel Gonzalez",
       "username": "danielg",
-      "email": "daniel.gonzalez@example.com"
+      "email": "daniel.gonzalez@example.com",
+      "telephone": "012-345-6789",
+      "location": "Tucson, AZ",
+      "isAdmin": false
     },
     {
       "id": 31,
       "name": "Elena Gray",
       "username": "elenag",
-      "email": "elena.gray@example.com"
+      "email": "elena.gray@example.com",
+      "telephone": "123-456-7890",
+      "location": "Fresno, CA",
+      "isAdmin": true
     },
     {
       "id": 32,
       "name": "Felix Martinez",
       "username": "felixm",
-      "email": "felix.martinez@example.com"
+      "email": "felix.martinez@example.com",
+      "telephone": "234-567-8901",
+      "location": "Sacramento, CA",
+      "isAdmin": false
     },
     {
       "id": 33,
       "name": "Gina Morgan",
       "username": "ginam",
-      "email": "gina.morgan@example.com"
+      "email": "gina.morgan@example.com",
+      "telephone": "345-678-9012",
+      "location": "Kansas City, MO",
+      "isAdmin": false
     },
     {
       "id": 34,
       "name": "Henry Edwards",
       "username": "henrye",
-      "email": "henry.edwards@example.com"
+      "email": "henry.edwards@example.com",
+      "telephone": "456-789-0123",
+      "location": "Atlanta, GA",
+      "isAdmin": true
     },
     {
       "id": 35,
       "name": "Isla Brooks",
       "username": "islab",
-      "email": "isla.brooks@example.com"
+      "email": "isla.brooks@example.com",
+      "telephone": "567-890-1234",
+      "location": "Omaha, NE",
+      "isAdmin": false
     },
     {
       "id": 36,
       "name": "Jack Sanders",
       "username": "jacks",
-      "email": "jack.sanders@example.com"
+      "email": "jack.sanders@example.com",
+      "telephone": "678-901-2345",
+      "location": "Colorado Springs, CO",
+      "isAdmin": false
     },
     {
       "id": 37,
       "name": "Katie Jenkins",
       "username": "katiej",
-      "email": "katie.jenkins@example.com"
+      "email": "katie.jenkins@example.com",
+      "telephone": "789-012-3456",
+      "location": "Raleigh, NC",
+      "isAdmin": true
     },
     {
       "id": 38,
       "name": "Liam Perry",
       "username": "liamp",
-      "email": "liam.perry@example.com"
+      "email": "liam.perry@example.com",
+      "telephone": "890-123-4567",
+      "location": "Miami, FL",
+      "isAdmin": false
     },
     {
       "id": 39,
       "name": "Mia Russell",
       "username": "miar",
-      "email": "mia.russell@example.com"
+      "email": "mia.russell@example.com",
+      "telephone": "901-234-5678",
+      "location": "Virginia Beach, VA",
+      "isAdmin": false
     },
     {
       "id": 40,
       "name": "Noah Bell",
       "username": "noahb",
-      "email": "noah.bell@example.com"
+      "email": "noah.bell@example.com",
+      "telephone": "012-345-6789",
+      "location": "Oakland, CA",
+      "isAdmin": true
     },
     {
       "id": 41,
       "name": "Olivia Torres",
       "username": "oliviat",
-      "email": "olivia.torres@example.com"
+      "email": "olivia.torres@example.com",
+      "telephone": "123-456-7890",
+      "location": "Minneapolis, MN",
+      "isAdmin": false
     },
     {
       "id": 42,
       "name": "Patrick Cooper",
       "username": "patrickc",
-      "email": "patrick.cooper@example.com"
+      "email": "patrick.cooper@example.com",
+      "telephone": "234-567-8901",
+      "location": "Tulsa, OK",
+      "isAdmin": false
     },
     {
       "id": 43,
       "name": "Quinn Howard",
       "username": "quinnh",
-      "email": "quinn.howard@example.com"
-    },
-    {
-      "id": 44,
-      "name": "Ruby Ward",
-      "username": "rubyw",
-      "email": "ruby.ward@example.com"
-    },
-    {
-      "id": 45,
-      "name": "Steven Flores",
-      "username": "stevenf",
-      "email": "steven.flores@example.com"
-    },
-    {
-      "id": 46,
-      "name": "Tara Sanders",
-      "username": "taras",
-      "email": "tara.sanders@example.com"
-    },
-    {
-      "id": 47,
-      "name": "Uriel Barnes",
-      "username": "urielb",
-      "email": "uriel.barnes@example.com"
-    },
-    {
-      "id": 48,
-      "name": "Victoria Reed",
-      "username": "victoriar",
-      "email": "victoria.reed@example.com"
-    },
-    {
-      "id": 49,
-      "name": "Walter Cook",
-      "username": "walterc",
-      "email": "walter.cook@example.com"
-    },
-    {
-      "id": 50,
-      "name": "Xena Price",
-      "username": "xenap",
-      "email": "xena.price@example.com"
+      "email": "quinn.howard@example.com",
+      "telephone": "345-678-9012",
+      "location": "Arlington, TX",
+      "isAdmin": true
     }
   ]
 }
